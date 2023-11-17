@@ -1,0 +1,13 @@
+
+        /* css rule */
+        /* selector {declaration block} */
+        selector {property: value}
+        table {
+            border:  2px solid rebeccapurple;
+            border-collapse: collapse;
+        }
+        td {
+            border: 2px solid rgb(151, 35, 3);
+            padding: 5px;
+        }
+    
